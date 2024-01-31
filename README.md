@@ -24,7 +24,7 @@ This template provides a standardized structure and essential files for software
    - Read and adhere to the `CODE_OF_CONDUCT.md` to foster a positive and inclusive community. By contributing to this project, you agree to uphold our shared values and create a respectful environment.
 
 ### Get Started:
-1. [Use this template]([link_to_use_template](https://github.com/asiakay/.github) to create a new repository.
+1. [Use this template](https://github.com/asiakay/.github) to create a new repository.
 2. Explore the provided files and customize them according to your project's needs.
 3. Start collaborating and building amazing software with a consistent and organized structure!
 
